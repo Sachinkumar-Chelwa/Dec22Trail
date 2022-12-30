@@ -10,7 +10,7 @@ public class ArithmaticOperators {
 		System.out.println(a-b);
 		System.out.println(a*c);
 		System.out.println(c/a);
-		System.out.println(c%a);;
+		System.out.println(c%a);
 		
 		
 	
